@@ -13,7 +13,7 @@
   <img align="center" alt="Saraiva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saraiva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Saraiva-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Saraiva-yoda" height="60" width="80" src="https://c.tenor.com/bvG4XJDgrjEAAAAC/trava-discord-discord.gif">
+  <img align="right" alt="Saraiva-yoda" height="80" width="100" src="https://c.tenor.com/bvG4XJDgrjEAAAAC/trava-discord-discord.gif">
 </div>
   
 ##
