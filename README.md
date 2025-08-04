@@ -15,12 +15,6 @@
 
 ###
 
-<div>
-  <a href="https://github.com/saraiva142">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saraiva142&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva142&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -54,6 +48,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+<div>
+  <a href="https://github.com/saraiva142">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva142&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=saraiva142&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saraiva142&theme=github_dark&hide_border=false)<br/>
