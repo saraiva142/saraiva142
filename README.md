@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a 24-year-old Computer Science student in my 10th semester (final semester) at PUC Goiás, with academic experience at IF Goiano and FCUP (University of Porto, Portugal).<br><br>- 💼 Currently interning as a Java tester at Goiás Prev.<br>- 📊 Previous experience in Data & Business Intelligence.<br>- 🔬 Researching machine learning as part of my undergraduate work.<br>- 💻 Passionate about web development using Python, React, and Nest.js.<br>- 🌱 Always learning — especially in full-stack and AI-related topics.<br>- 🌍 Interested in tech communities, open-source, and innovation.<br>- 🧩 Outside of tech, I enjoy solving problems and building things that matter.</p>
+<p align="left">I'm a 24-year-old Computer Science graduate from PUC Goiás, with academic experience at IF Goiano and FCUP (University of Porto, Portugal).<br><br>- 💼 Currently interning as a Java tester at Goiás Prev.<br>- 📊 Previous experience in Data & Business Intelligence.<br>- 🔬 Researching machine learning as part of my undergraduate work.<br>- 💻 Passionate about web development using Python, React, and Nest.js.<br>- 🌱 Always learning — especially in full-stack and AI-related topics.<br>- 🌍 Interested in tech communities, open-source, and innovation.<br>- 🧩 Outside of tech, I enjoy solving problems and building things that matter.</p>
 
 ###
 
